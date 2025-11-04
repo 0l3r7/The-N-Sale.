@@ -7,5 +7,9 @@ export default defineConfig({
   plugins: [ tailwindcss(),react(),
     
   ],
+<<<<<<< HEAD
   base:"/The-N-Sale/"
+=======
+  base:"/The-N-Sale"
+>>>>>>> 520336abe20b516611849c75936097ee549cd1ef
 })
